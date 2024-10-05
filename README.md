@@ -21,7 +21,7 @@ para estudo offline. Com uma interface simples e amigável.
 
 
 
-1. Baixe a versão compilada mais recente para **[versão AMD64](versions/StudyFetch%20setupamdx64_v1_0.exe)**
+1. Baixe a versão compilada mais recente **[versões](versions)**
 
 2. Execute o instalador e siga as instruções na tela.
 
