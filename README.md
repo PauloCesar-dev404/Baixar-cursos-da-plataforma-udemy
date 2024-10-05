@@ -19,8 +19,6 @@ para estudo offline. Com uma interface simples e amigável.
 
 ## 🚀 Instalação
 
-
-
 1. Baixe a versão compilada mais recente **[versões](versions)**
 
 2. Execute o instalador e siga as instruções na tela.
