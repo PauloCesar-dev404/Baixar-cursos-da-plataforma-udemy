@@ -28,10 +28,7 @@ para estudo offline. Com uma interface simples e amigável.
 
 ![login](bin/login.png)
 ![carregando cursos](bin/loading.png)
-![baixando](bin/baixando.png)
-![baixando](bin/baixando2.png)
-
-
+![Aviso de uso](bin/aviso.png)
 
 
 **StudyFetch** - *Seu conhecimento, suas regras.*
