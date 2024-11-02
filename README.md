@@ -6,7 +6,7 @@
 [![Sponsor](https://img.shields.io/badge/%F0%9F%92%B0-Apoie_o_projeto-00b16a?style=for-the-badge)](https://apoia.se/paulocesar-dev404) 
 ![Bugs](https://img.shields.io/github/issues/paulocesar-dev404/Baixar-cursos-da-plataforma-udemy/bug?style=for-the-badge&color=ff0000&label=Bugs&logo=bugatti)
 ![Issues abertas](https://img.shields.io/github/issues/paulocesar-dev404/Baixar-cursos-da-plataforma-udemy?style=for-the-badge&color=ff9800&label=Issues)
-[![Versão](https://img.shields.io/github/v/release/paulocesar-dev404/Baixar-cursos-da-plataforma-udemy?style=for-the-badge&color=blue&label=Vers%C3%A3o)](https://raw.githubusercontent.com/PauloCesar-dev404/Baixar-cursos-da-plataforma-udemy/refs/heads/main/versions/StudyFetch%20setupamdx64_v1_0_5.exe)
+[![Versão](https://img.shields.io/github/v/release/paulocesar-dev404/Baixar-cursos-da-plataforma-udemy?style=for-the-badge&color=blue&label=Vers%C3%A3o)](https://raw.githubusercontent.com/PauloCesar-dev404/Baixar-cursos-da-plataforma-udemy/refs/heads/main/versions/StudyFetch%20setupamdx64_v1_0_6.exe)
 
 é uma aplicação desktop eficiente que permite baixar cursos das plataformas **Udemy**
 para estudo offline. Com uma interface simples e amigável.
